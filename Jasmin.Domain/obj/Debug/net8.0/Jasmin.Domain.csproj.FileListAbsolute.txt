@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\bin\Debug\net8.0\Jasmin.Domain.deps.json
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\bin\Debug\net8.0\Jasmin.Domain.dll
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\bin\Debug\net8.0\Jasmin.Domain.pdb
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\Jasmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\Jasmin.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\Jasmin.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\Jasmin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\Jasmin.Domain.dll
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\refint\Jasmin.Domain.dll
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\Jasmin.Domain.pdb
+C:\Users\user\Desktop\Django\FitnesClub\Studio9 Finnes Club\Jasmin.Domain\obj\Debug\net8.0\ref\Jasmin.Domain.dll
